@@ -4,7 +4,7 @@
 
 #### Explore us
 
-- Join our telegram group at [https://t.me/elixir-pune](https://t.me/elixir-pune) 
+- Join our telegram group at [https://t.me/elixirpune](https://t.me/elixirpune)
 
 - Elang & Elixir Meetup page [http://meetup.com/elixir-pune](http://meetup.com/elixir-pune)
 
