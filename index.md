@@ -4,9 +4,12 @@
 
 #### Explore us
 
-- Join our telegram group at [https://t.me/elixirpune](https://t.me/elixirpune)
+- Join our telegram group - [https://t.me/elixirpune](https://t.me/elixirpune)
 
-- Elang & Elixir Meetup page [http://meetup.com/elixir-pune](http://meetup.com/elixir-pune)
+- Elang & Elixir Meetup page - [http://meetup.com/elixir-pune](http://meetup.com/elixir-pune)
+
+- Our Discord Server - Elixir India [https://discord.gg/TEWkzmB](https://discord.gg/TEWkzmB)
+
 
 #### Elixir Resources
 
