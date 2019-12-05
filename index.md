@@ -8,7 +8,7 @@
 
 - Elang & Elixir Meetup page - [http://meetup.com/elixir-pune](http://meetup.com/elixir-pune)
 
-- Our Discord Server - Elixir India [https://discord.gg/TEWkzmB](https://discord.gg/TEWkzmB)
+- Our Discord Server - Elixir India [https://discord.gg/svYQcSe](https://discord.gg/svYQcSe)
 
 
 #### Elixir Resources
