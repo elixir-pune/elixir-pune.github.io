@@ -10,6 +10,7 @@
 
 - Our Discord Server - Elixir India [https://discord.gg/svYQcSe](https://discord.gg/svYQcSe)
 
+<iframe src="https://discordapp.com/widget?id=647685686828466176&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 
 #### Elixir Resources
 
